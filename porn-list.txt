@@ -393,3 +393,14 @@
 ||xxx2022.com^
 ||xnxx-sex-videos.com^
 ||tube-xxx-hub.com^
+||fullxh.com^$important
+||asia-news-abroad.vivo.com^$important
+@@||raspberrypi.org^
+||analyticsengine.s3.amazonaws.com^$important
+||affiliationjs.s3.amazonaws.com^$important
+||advertising-api-eu.amazon.com^$important
+||app.getsentry.com^$important
+||widgets.pinterest.com^$important
+||d.reddit.com^$important
+||www.googleadservices.com^$important
+||pornmd^$important
